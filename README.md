@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="40" height="40" alt="npm" /> 
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="35" height="35" alt="npm" /> 
   </a>
   <a href="https://pugjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> 
