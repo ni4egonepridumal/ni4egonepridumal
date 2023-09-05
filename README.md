@@ -3,8 +3,7 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://t.me/ni4egonepridumal" target="_blank" rel="noreferrer">🌐 Telegram
- </a>
+ <a href="https://t.me/ni4egonepridumal" target="_blank" rel="noreferrer">🌐 Telegram</a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
