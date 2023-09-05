@@ -3,7 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  - 🌐 &nbsp;**[Telegram](https://t.me/ni4egonepridumal)**
+ 🌐 <a href="https://t.me/ni4egonepridumal"> Telegram
+ </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
