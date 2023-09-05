@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Maxim</h1>
 <h3 align="center">Frontend Developer</h3>
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  🌐 <a href="https://t.me/ni4egonepridumal"> Telegram
  </a>
 </p>
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
@@ -18,7 +18,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
+  <hr>
 <h3> 🐻 Frontend Development </h3>
+<hr>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -58,7 +60,9 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a> 
+  <hr>
   <h3> 🦝 Other </h3>
+  <hr>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
