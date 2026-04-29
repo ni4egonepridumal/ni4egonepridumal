@@ -27,7 +27,7 @@
   <tr>
     <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.npmjs.com/"><img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="35" height="35"/></a></td>
+    <td><a href="https://www.npmjs.com/"><img src="https://www.svgrepo.com/show/452077/npm.svg" width="35" height="35"/></a></td>
     <td><a href="https://pugjs.org"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40" height="40"/></a></td>
     <td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a></td>
     <td><a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a></td>
